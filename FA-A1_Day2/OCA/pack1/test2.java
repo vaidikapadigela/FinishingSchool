@@ -1,4 +1,4 @@
-package pack1;
+package OCA.pack1;
 public class test2{
     public static void main(String[] args){
         System.out.println("From pack1, test 2");
